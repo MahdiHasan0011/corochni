@@ -1,4 +1,4 @@
 # corochni
-This is my corochni folder
+nicoro
 <br>
 Author - MyMoon
